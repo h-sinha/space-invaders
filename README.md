@@ -4,6 +4,15 @@ Space Invaders is a classic arcade video game created by Tomohiro Nishikado and 
 1978 .
 This project is my version of this classic built with PyGame.
 
+
+### Installation and Running
+
+```
+git clone https://github.com/h-sinha/space-invaders.git   (OR Download ZIP and Unzip)
+cd space-invaders
+python3 tstgame.py
+```
+
 ## Elements in the Game
 * **a. Spaceship :** The spaceship can only be moved horizontally. Move it using key ‘A’ to move left and key ‘D’ to move it to the right.
 
@@ -17,10 +26,3 @@ This project is my version of this classic built with PyGame.
 Each time an alien is hit by the missile the score goes up.
 If the user presses the ‘Q’ button, the game is quit.
 
-### Installation and Running
-
-```
-git clone https://github.com/h-sinha/space-invaders.git   (OR Download ZIP and Unzip)
-cd space-invaders
-python3 tstgame.py
-```
